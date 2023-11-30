@@ -2,9 +2,7 @@
 
 This repository contains the official documentation and source code for the study on lymph node metastasis patterns in esophageal squamous cell carcinoma (ESCC), utilizing network analysis and association rule mining techniques.
 
-## Table of Contents
-
-- [Abstract](#Abstract)
+# Abstract
 - [Background](#Background)
 - [Methods](#Methods)
 - [Results](#Results)
@@ -13,12 +11,9 @@ This repository contains the official documentation and source code for the stud
 - [License](#License)
 - [Contact](#Contact)
 
-## Abstract
-
-Understanding lymph node (LN) metastatic patterns in esophageal squamous cell cancer (ESCC) is crucial for accurate tumor staging and lymphadenectomy. This study employs data mining techniques to clarify these patterns in ESCC patients.
-
 ## Background
 
+Understanding lymph node (LN) metastatic patterns in esophageal squamous cell cancer (ESCC) is crucial for accurate tumor staging and lymphadenectomy. This study employs data mining techniques to clarify these patterns in ESCC patients.
 Previous studies on LN metastasis in ESCC have primarily focused on metastasis frequencies in specific regions. This study advances our understanding by pinpointing precise LN metastasis patterns using novel data mining techniques.
 
 ## Methods
